@@ -10,7 +10,7 @@ nilai = int (input('Enter any number:'))
 # jika nilai kurang dari 60 mendapat nilai F
 
 
-if(nilai >= 90 and  nilai <=100 ): #jika nilai 90 ~100maka mendapatkan A
+if(nilai >= 90 and  nilai <=100 ): #jika nilai 90 ~100 maka mendapatkan A
     print( f'nilai {nilai} mendapatkan A') 
 elif (nilai >= 80 and nilai <90): 
         print( f'nilai {nilai} mendapatkan Bukan A') 
